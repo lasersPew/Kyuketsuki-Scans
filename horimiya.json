@@ -1,17 +1,17 @@
 {
-  "title":"Horimiya",
-  "description":"Kyoko Hori is your average teenage girl… who has a side she wants no one else to ever discover. Then there's her classmate Izumi Miyamura, your average glasses-wearing boy — who's also a totally different person outside of school. When the two unexpectedly meet, they discover each other's secrets, and a friendship is born.",
-  "artist":"Hiroki Adachi (HERO)",
-  "author":"Hiroki Adachi (HERO)",
-  "cover":"https://m.media-amazon.com/images/I/81RE4A5STUL._AC_SL1500_.jpg",
-  "chapters":{
-    "20":{
-      "title":"Chapter 20",
-      "volume":"2",
-      "groups":{
-        "Simping Scans":"http://imgur.com/a/41ve8qH"
-      },
-      "last_updated":"1634176800"
+  "title": "Horimiya",
+  "description": "Kyoko Hori is your average teenage girl… who has a side she wants no one else to ever discover. Then there's her classmate Izumi Miyamura, your average glasses-wearing boy — who's also a totally different person outside of school. When the two unexpectedly meet, they discover each other's secrets, and a friendship is born.",
+  "artist": "Hiroki Adachi (HERO)",
+  "author": "Hiroki Adachi (HERO)",
+  "cover": "https://m.media-amazon.com/images/I/81RE4A5STUL._AC_SL1500_.jpg",
+  "chapters": {
+    "20": {
+      "title": "Chapter 20",
+      "volume": "2",
+      "last_updated": "1634176800",
+      "groups": {
+        "Simping Scans": "http://imgur.com/a/dbCH3Zy"
+      }
     }
   }
 }
