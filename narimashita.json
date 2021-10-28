@@ -4,5 +4,14 @@
   "artist": "Yamamoto Momo",
   "author": "Yamamoto Momo",
   "cover": "https://uploads.mangadex.org/covers/509a8a83-9ab8-4f10-bbd7-e109e630d23c/dc0b4ab1-4a26-4a29-880b-a589454b35a9.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "If you don't have any hope of living then,",
+      "volume": "1",
+      "last_updated": "1635414249",
+      "groups": {
+        "Simping Scans": "https://www.dropbox.com/sh/avuxryo1ma8rbov/AABOAqE6pTI75Iady_FExc-Za?dl=0"
+      }
+    }
+  }
 }
