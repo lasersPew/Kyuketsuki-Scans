@@ -10,7 +10,7 @@
       "volume": "1",
       "last_updated": "1637038049",
       "groups": {
-        "cover": "https://i.ibb.co/ggyrYhz/4.png", "https://i.ibb.co/K50DJYb/7.png", "https://i.ibb.co/5B7yg0q/00.png" "https://i.ibb.co/KmqLHwV/2.png", "https://i.ibb.co/x1sxtHQ/5.png", "https://i.ibb.co/317jgct/8.png", "https://i.ibb.co/N3FNKzC/1.png", "https://i.ibb.co/Dgb3Lc7/3.png", "https://i.ibb.co/5sg1rPb/9.png", "https://i.ibb.co/HTkSQrJ/6.png", "https://i.ibb.co/YhgQsKN/10.png"
+        "cover": ["https://i.ibb.co/ggyrYhz/4.png", "https://i.ibb.co/K50DJYb/7.png", "https://i.ibb.co/5B7yg0q/00.png" "https://i.ibb.co/KmqLHwV/2.png", "https://i.ibb.co/x1sxtHQ/5.png", "https://i.ibb.co/317jgct/8.png", "https://i.ibb.co/N3FNKzC/1.png", "https://i.ibb.co/Dgb3Lc7/3.png", "https://i.ibb.co/5sg1rPb/9.png", "https://i.ibb.co/HTkSQrJ/6.png", "https://i.ibb.co/YhgQsKN/10.png"]
       }
     }
   }
