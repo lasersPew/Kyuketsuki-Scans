@@ -1,24 +1,24 @@
 {
-  "title": "My Follower Became my Girlfriend",
-  "description": "It is now Reiwa, a new era marked by the spread of the novel corona virus.\n\nTwo university freshmen had lost their chance of having romantic encounters because their classes were almost immediately moved online after starting university.\n\nThey are Takano Shouhei (SNS ID: Mega Donki), a virgin aiming for ten thousand likes on his SNS posts and Sasakura Nene (SNS ID: nene), a thickheaded convenience store part-timer and they have somehow become each other’s purpose for living.\n\nThis is the start of a miracle-like pure love comedy that started on social media.",
-  "artist": "Yamamoto Momo",
-  "author": "Yamamoto Momo",
-  "cover": "https://uploads.mangadex.org/covers/509a8a83-9ab8-4f10-bbd7-e109e630d23c/dc0b4ab1-4a26-4a29-880b-a589454b35a9.jpg",
-  "chapters": {
-    "1": {
-      "title": "If you don't have any hope of living, then, Part 1",
-      "volume": "1",
-      "last_updated": "1635414249",
-      "groups": {
-        "Simping Scans": "/proxy/api/imgur/chapter/4XoRLnt/"
+  "title":"My Follower Became my Girlfriend",
+  "description":"It is now Reiwa, a new era marked by the spread of the novel corona virus.\n\nTwo university freshmen had lost their chance of having romantic encounters because their classes were almost immediately moved online after starting university.\n\nThey are Takano Shouhei (SNS ID: Mega Donki), a virgin aiming for ten thousand likes on his SNS posts and Sasakura Nene (SNS ID: nene), a thickheaded convenience store part-timer and they have somehow become each other’s purpose for living.\n\nThis is the start of a miracle-like pure love comedy that started on social media.",
+  "artist":"Yamamoto Momo",
+  "author":"Yamamoto Momo",
+  "cover":"https://uploads.mangadex.org/covers/509a8a83-9ab8-4f10-bbd7-e109e630d23c/dc0b4ab1-4a26-4a29-880b-a589454b35a9.jpg",
+  "chapters":{
+    "1":{
+      "title":"If you don't have any hope of living, then, Part 1",
+      "volume":"1",
+      "last_updated":"1635414249",
+      "groups":{
+        "Simping Scans":"/proxy/api/imgur/chapter/4XoRLnt/"
       }
     },
-    "2": {
-      "title": "If you don't have any hope of living, then, Part 2",
-      "volume": "1",
-      "last_updated": "1635928936",
-      "groups": {
-        "Simping Scans": [
+    "2":{
+      "title":"If you don't have any hope of living, then, Part 2",
+      "volume":"1",
+      "last_updated":"1635928936",
+      "groups":{
+        "Simping Scans":[
           "https://i.ibb.co/rdC9Lxr/001.png",
           "https://i.ibb.co/CJZS3Lj/002.png",
           "https://i.ibb.co/yRrW21g/003.png",
@@ -35,13 +35,26 @@
         ]
       }
     },
-    "3": {
-      "title": "If you don't have any hope of living, then, Part 3",
-      "volume": "1",
-      "last_updated": "1638025200",
-      "groups": {
-        "Simping Scans": 
-          ["https://www.dropbox.com/s/le07ossv460ueq1/1.png?raw=1","https://www.dropbox.com/s/zovepkwm9d052xl/2.png?raw=1","https://www.dropbox.com/s/nqr4l4ck7szv8sp/3.png?raw=1","https://www.dropbox.com/s/r2b1d8ym75ms6qk/4.png?raw=1","https://www.dropbox.com/s/qhx52291jwmjyd8/5.png?raw=1","https://www.dropbox.com/s/v5pidan4n70cys0/6.png?raw=1","https://www.dropbox.com/s/0twt04mfe0wrvfx/7.png?raw=1","https://www.dropbox.com/s/txpcudd2uwc0j4s/8.png?raw=1","https://www.dropbox.com/s/mf21nq0i945rnrf/9.png?raw=1","https://www.dropbox.com/s/bp8lfljoyu5ft41/10.png?raw=1","https://www.dropbox.com/s/c9a7x6rc4l0ep3y/11.png?raw=1","https://www.dropbox.com/s/vl82l9x9dww3dkd/cover.png?raw=1","https://www.dropbox.com/s/8x24pac58bwz68e/cover2.png?raw=1"]
+    "3":{
+      "title":"If you don't have any hope of living, then, Part 3",
+      "volume":"1",
+      "last_updated":"1638025200",
+      "groups":{
+        "Simping Scans":[
+          "https://www.dropbox.com/s/le07ossv460ueq1/1.png?raw=1",
+          "https://www.dropbox.com/s/zovepkwm9d052xl/2.png?raw=1",
+          "https://www.dropbox.com/s/nqr4l4ck7szv8sp/3.png?raw=1",
+          "https://www.dropbox.com/s/r2b1d8ym75ms6qk/4.png?raw=1",
+          "https://www.dropbox.com/s/qhx52291jwmjyd8/5.png?raw=1",
+          "https://www.dropbox.com/s/v5pidan4n70cys0/6.png?raw=1",
+          "https://www.dropbox.com/s/0twt04mfe0wrvfx/7.png?raw=1",
+          "https://www.dropbox.com/s/txpcudd2uwc0j4s/8.png?raw=1",
+          "https://www.dropbox.com/s/mf21nq0i945rnrf/9.png?raw=1",
+          "https://www.dropbox.com/s/bp8lfljoyu5ft41/10.png?raw=1",
+          "https://www.dropbox.com/s/c9a7x6rc4l0ep3y/11.png?raw=1",
+          "https://www.dropbox.com/s/vl82l9x9dww3dkd/cover.png?raw=1",
+          "https://www.dropbox.com/s/8x24pac58bwz68e/cover2.png?raw=1"
+        ]
       }
     }
   }
