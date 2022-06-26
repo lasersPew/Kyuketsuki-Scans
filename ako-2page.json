@@ -4,5 +4,23 @@
   "artist": "Hiroki Adachi(HERO)",
   "author": "Hiroki Adachi(HERO)",
   "cover": "https://mangadex.org/covers/eb0494de-3b43-4d52-a808-63429c4a4239/b1761ce4-55df-4e9b-a76b-bf1af7646faa.png",
-  "chapters": {}
+  "chapters": {
+    "0.5": {
+      "title": "covers",
+      "volume": "0",
+      "last_updated": "1656243738",
+      "groups": {
+        "Kyuketsuki Scans": [
+          "https://mangadex.org/covers/eb0494de-3b43-4d52-a808-63429c4a4239/b1761ce4-55df-4e9b-a76b-bf1af7646faa.png",
+          "https://mangadex.org/covers/eb0494de-3b43-4d52-a808-63429c4a4239/541fd499-3ea2-4886-ba99-02d61dfe448f.png",
+          "https://mangadex.org/covers/eb0494de-3b43-4d52-a808-63429c4a4239/d7e6285e-0d31-46a2-8709-6d103a7369d9.png",
+          "https://mangadex.org/covers/eb0494de-3b43-4d52-a808-63429c4a4239/407b51ec-3658-40df-9ccd-83a8544971da.png",
+          "https://mangadex.org/covers/eb0494de-3b43-4d52-a808-63429c4a4239/73cdbb46-39cc-492a-9849-fa666485e874.png",
+          "https://mangadex.org/covers/eb0494de-3b43-4d52-a808-63429c4a4239/460a6ce6-c5af-46af-8af8-cf6968d2644e.png",
+          "https://mangadex.org/covers/eb0494de-3b43-4d52-a808-63429c4a4239/06e6b111-3208-444b-a525-2a679b8156c2.png",
+          "https://mangadex.org/covers/eb0494de-3b43-4d52-a808-63429c4a4239/02eb93db-ccf8-4a20-822c-fef54926ea0c.png"
+        ]
+      }
+    }
+  }
 }
